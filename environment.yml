@@ -48,7 +48,6 @@ dependencies:
   - termcolor=1.1.0
   - tornado=5.0.2
   - traitlets=4.3.2
-  - vc=14.1
   - vs2015_runtime=15.5.2
   - wcwidth=0.1.7
   - werkzeug=0.14.1
